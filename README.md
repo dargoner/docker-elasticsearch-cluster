@@ -5,7 +5,7 @@
 
 #### 安装教程
 
-1. 拥有一套私有化的Rainbond平台，或者使用 https://console.goodrain.com 公有云环境
+1. 拥有一套私有化的Rainbond平台，或者使用 https://cloud.goodrain.com/ 公有云环境
 2. 使用当前仓库进行源码构建
 
 #### 使用说明
